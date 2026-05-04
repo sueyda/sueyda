@@ -27,7 +27,7 @@
 <img src="image2.gif" width="500px">⠀
 <br>
 <br>
-✨ [**C L I C K  H E R E**](https://sueyda.github.io) ✨
+✨ [**C L I C K  H E R E**]([https://sueyda.github.io](https://sueyda.github.io/SueydaBio/)) ✨
 
 <br>
 
