@@ -14,12 +14,15 @@
 
 ⠀
 🌸 **U n i :** Working hard for the goals at Hatay Mustafa Kemal University.
+<br>
 🌸 **S w i m :** Finding peace in the water and sunsets of Turkish beaches.
+<br>
 🌸 **D e v :** Writing logic with C#, Python, and SQL; dreaming aesthetic.
+<br>
 🌸 **G a m e :** Steam Level 47 — Always here for a good match.
 ⠀
 
-⠀ ೋ ━━━━━━━━━━━━━━━ 🌸 ━━━━━━━━━━━━━ ೋ
+⠀ ೋ ━━━━━━━━━━━━━━━ 🌸 ━━━━━━━━━━━━━━━ ೋ
 <br>
 <img src="image2.gif" width="500px">⠀
 <br>
