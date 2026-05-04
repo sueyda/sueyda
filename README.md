@@ -24,10 +24,3 @@
 ┌───────────────────── ♡ ─────────────────────┐
 ㅤㅤㅤㅤㅤೋ🌸♥~ Have a nice Day ~♥🌸ೋ
 └────────────────────────────────────────────┘
-
-<br/>
-
-<!-- Snake animation for a cozy touch -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
