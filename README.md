@@ -2,25 +2,36 @@
 
 🌸 *Became my own god, living in a world of code...* 🌸
 
-· . · ´¯` · . · ✧°.• : * ✦:･ﾟ · · · · ·⠀┈┈┈┈┈━━━━━━━━━━━━┈┈┈┈┈⠀· · · · · '･:✦ * : •.°✧ · . · ´¯` · ...
+✧°.• : * ✦:･ﾟ · · · · ·⠀┈┈┈┈┈━━━━━━━━━━━━┈┈┈┈┈⠀· · · · · '･:✦ * : •.°✧
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 ⠀
 ⠀ ೋ ━━━━━━━━━━━━━━━ 🌸 ━━━━━━━━━━━━━━━ ೋ
 ⠀
 ⠀
-✧ B E C A M E M Y O W N G O D ✧
-⠀
-⠀ 🌸 **U n i :** Working hard for the goals at Hatay Mustafa Kemal University.
-⠀ 🌸 **S w i m :** Finding peace in the water and sunsets of Turkish beaches.
-⠀ 🌸 **D e v :** Writing logic with C#, Python, and SQL; dreaming aesthetics for HotDragons.
-⠀ 🌸 **C a t s :** Living the cozy life with Luna and my 1.5-year-old Scottish mix.
-⠀ 🌸 **G a m e :** Steam Level 47 - Always here for a good match in Valorant or GTA.
-⠀
+**✧ B E C A M E  M Y  O W N  G O D ✧**
+<br>
+
+🌸 **U n i :** Working hard at Hatay Mustafa Kemal University.
+<br>
+🌸 **S w i m :** Finding peace in sunsets on Turkish beaches.
+<br>
+🌸 **D e v :** Crafting logic with C#, Python, and SQL for HotDragons.
+<br>
+🌸 **C a t s :** Cozy days with Luna and my Scottish mix cat.
+<br>
+🌸 **G a m e :** Steam Level 47 — Valorant & GTA enthusiast.
+
+<br>
 ⠀ ೋ ━━━━━━━━━━━━━━━ 🌸 ━━━━━━━━━━━━━━━ ೋ
-⠀
-⠀ ✨ [**V i s i t  M y  W o r l d**](https://sueyda.github.io) ✨
-⠀
+<br>
+
+✨ [**V i s i t  M y  W o r l d**](https://sueyda.github.io) ✨
+
+<br>
+
 ┌───────────────────── ♡ ─────────────────────┐
 ㅤㅤㅤㅤㅤೋ🌸♥~ Have a nice Day ~♥🌸ೋ
 └────────────────────────────────────────────┘
+
+<br>
