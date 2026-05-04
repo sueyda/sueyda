@@ -21,11 +21,10 @@
 
 ⠀ ೋ ━━━━━━━━━━━━━━━ 🌸 ━━━━━━━━━━━━━━━ ೋ
 <br>
-<img src="image2.gif" width="300px">⠀
+<img src="image2.gif" width="400px">⠀
 <br>
 ✨ [**C L I C K  H E R E**](https://sueyda.github.io) ✨
-<br>
-<img src="image3.gif" width="300px">
+
 <br>
 
 ┌───────────────────── ♡ ─────────────────────┐
@@ -33,3 +32,5 @@
 ㅤㅤㅤㅤㅤೋ🌸♥~ Have a nice Day ~♥🌸ೋ
 <br>
 └────────────────────────────────────────────┘
+<br>
+<img src="image3.gif" width="500px">
