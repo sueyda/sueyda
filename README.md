@@ -38,7 +38,13 @@
 └────────────────────────────────────────────┘
 <br>
 <img src="image3.gif" width="500px">
+<br>
+<br>
+<div align="center">
 
+<img src="https://lanyard.vercel.app/api/336780329388081153?theme=dark&bg=transparent&hideFinishedPercentage=true" alt="Discord Status" />
+
+</div>
 <br>
 <br>
 <img src="https://count.getloli.com/get/@sueyda?theme=moe" alt="Moe Counter">
