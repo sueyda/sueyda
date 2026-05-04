@@ -41,4 +41,4 @@
 
 <br>
 <br>
-![](https://count.getloli.com/get/@sueyda?theme=moe)
+<img src="https://count.getloli.com/get/@sueyda?theme=moe" alt="Moe Counter">
