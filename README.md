@@ -42,7 +42,7 @@
 <br>
 <div align="center">
 
-<img src="https://api.lanyard.rest/v1/users/336780329388081153" alt="Discord Status" />
+<a href="https://discord.com/users/336780329388081153"><img src="https://lanyard.cnrad.dev/api/336780329388081153?theme=dark" /></a>
 
 </div>
 <br>
