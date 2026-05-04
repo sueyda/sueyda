@@ -38,3 +38,7 @@
 └────────────────────────────────────────────┘
 <br>
 <img src="image3.gif" width="500px">
+
+<br>
+<br>
+![](https://moe-counter.glitch.me/get/@sueyda?theme=moe)
