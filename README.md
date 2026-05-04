@@ -41,4 +41,4 @@
 
 <br>
 <br>
-![](https://moe-counter.glitch.me/get/@sueyda?theme=moe)
+![](https://count.getloli.com/get/@sueyda?theme=moe)
