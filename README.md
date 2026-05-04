@@ -1,6 +1,6 @@
 <div align="center">
 
-🌸 *Became my own god, living in a world of code...* 🌸
+🌸 *Became her own god, she lives in the world...* 🌸
 
 ✧°.• : * ✦:･ﾟ · · · · ·⠀┈┈┈┈┈━━━━━━━━━━━━┈┈┈┈┈⠀· · · · · '･:✦ * : •.°✧
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
