@@ -5,7 +5,7 @@
 ✧°.• : * ✦:･ﾟ · · · · ·⠀┈┈┈┈┈━━━━━━━━━━━━┈┈┈┈┈⠀· · · · · '･:✦ * : •.°✧
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 <br>
-<img src="image1.gif" width="300px">
+<img src="image1.gif" width="500px">
 ⠀<br>
 ⠀ ೋ ━━━━━━━━━━━━━━━ 🌸 ━━━━━━━━━━━━━━━ ೋ
 ⠀
@@ -21,11 +21,11 @@
 
 ⠀ ೋ ━━━━━━━━━━━━━━━ 🌸 ━━━━━━━━━━━━━━━ ೋ
 <br>
-<img src="image2.gif" width="150px">⠀
+<img src="image2.gif" width="300px">⠀
 <br>
 ✨ [**C L I C K  H E R E**](https://sueyda.github.io) ✨
 <br>
-<img src="image3.gif" width="100px">
+<img src="image3.gif" width="300px">
 <br>
 
 ┌───────────────────── ♡ ─────────────────────┐
