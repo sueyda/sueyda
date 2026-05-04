@@ -1,30 +1,39 @@
-### Operating Systems
+# Süeyda's Cozy Corner ☁️
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-%23F5F5DC.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux Beige" />
+  <img src="https://img.shields.io/badge/Windows-%23aec6cf.svg?style=flat-square&logo=windows&logoColor=white" alt="Windows Pastel Blue" />
+</div>
 
 <br/>
 
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1NHN6N3ZqZ3A0eGZ6Z3A0eGZ6Z3A0eGZ6Z3A0eGZ6Z3A0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxvMCWpqI80/giphy.gif" width="120" />
+<!-- Cozy GIF and Description Area -->
+<p align="center">
+  <img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k5ZWxjZWtxZWxxdXJqd2lxZXZhNnQ1aXF6ZXZhNnQ1aXF6ZXZhNnQmZ <|image_1.png|> JjdHM9cw/C9v8pB3r1cR6jE8Y2l/giphy.gif" width="160" />
 
-### *A little more about me...*
+  <br/>
+  <h3><i>A little touch of simplicity...</i></h3>
 
-* 🔭 *I’m currently working on:* **HotDragons.com** and a **TÜBİTAK-supported** educational mobile game.
-* 💼 *I’ve knowledge in the following technologies:*
-    * **Main Technologies:**
-        * C#, Python, SQL and C++
-        * Backend Software Development
-    * **Secondary Technologies:**
-        * HTML/CSS
-        * Unreal Engine & Firebase
-* 🌱 *I’m constantly studying and learning:* **Cybersecurity (Siber Vatan program)**.
-* 💬 *Ask me about:* **Backend development, cats, or Asian cuisine!**
-* 📫 *How to reach me:* Discord, LinkedIn or e-mail.
-* ⚡ *Fun fact:* I'm a mechanical keyboard enthusiast (Aula F75 Max ⌨️) and I love cooking noodles!
+  <ul>
+    <li>☁️ <i>Creating and building:</i> **HotDragons.com** and a **TÜBİTAK-supported** educational mobile game.</li>
+    <li>☕ <i>Fluent in the languages of code:</i>
+      <ul>
+        <li>**Main Tools:** C#, Python, SQL and C++.</li>
+        <li>**Secondary Tools:** HTML/CSS, Unreal Engine & Firebase.</li>
+      </ul>
+    </li>
+    <li>📚 <i>Constantly learning & growing:</i> **Cybersecurity (Siber Vatan program)**.</li>
+    <li>💖 <i>Let's chat about:</i> **Cats, backend development, or Asian cuisine!**</li>
+    <li>💌 <i>Find me on:</i> Discord, LinkedIn or via e-mail.</li>
+    <li>✨ <i>Little joys:</i> I'm a mechanical keyboard enthusiast (AulF75 Max ⌨️) and I love cooking noodles!</li>
+  </ul>
+</p>
 
 <br clear="left"/>
 
+<!-- Footer and Snake Animation -->
 <p align="center">
-  <i>"When the world has fallen, and we stand alone."</i>
+  <i>"Embrace the simple life."</i>
   <br/>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
