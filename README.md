@@ -19,7 +19,7 @@
 🌸 **G a m e :** Steam Level 47 — Always here for a good match.
 ⠀
 
-⠀ ೋ ━━━━━━━━━━━━━━━ 🌸 ━━━━━━━━━━━━━━━ ೋ
+⠀ ೋ ━━━━━━━━━━━━━━━ 🌸 ━━━━━━━━━━━━━ ೋ
 <br>
 <img src="image2.gif" width="400px">⠀
 <br>
