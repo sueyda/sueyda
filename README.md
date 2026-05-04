@@ -10,6 +10,7 @@
 ⠀
 ⠀
 **✧ B E C A M E  M Y  O W N  G O D ✧**
+
 <br>
 
 🌸 **U n i :** Working hard at Hatay Mustafa Kemal University.
@@ -30,8 +31,7 @@
 
 <br>
 
+```text
 ┌───────────────────── ♡ ─────────────────────┐
 ㅤㅤㅤㅤㅤೋ🌸♥~ Have a nice Day ~♥🌸ೋ
 └────────────────────────────────────────────┘
-
-<br>
