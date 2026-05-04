@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 🌸 *Became my own god, living in a world of code...* 🌸
